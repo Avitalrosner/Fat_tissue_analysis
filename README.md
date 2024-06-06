@@ -1,6 +1,7 @@
 # Project Proposal:
 
-Background:
+#Background:
+
 Although human beings seem very different from the outside, when it comes to our biological info, aka DNA - we are very similar to each other, and mostly we express the same genes respectivally to each cell type.
 With that being said, external factor like our life-style, the food we eat and such, can have an impact of the expression levels of some gene. 
 There is a cool noninvasive method called cfRNA, with which we can research the RNA content in the blood.
@@ -12,7 +13,8 @@ Cells die due to Apoptosis / necrosis, or cells secrete RNA content via extra-ce
 
 [More information can be found here](https://www.sciencedirect.com/science/article/pii/S1471491421000022?via%3Dihub#f0005)
 
-Project goal:
+#Project goal:
+
 This project is a part of a bigger project that looks for differences in the gene expression found in human blood samples.
 Spesifically here, I've created an analysis based on the [GTEx database](https://gtexportal.org/home/)
 The database contains information of RNA seq that was harvest from biopsies of most tissues in the body.
