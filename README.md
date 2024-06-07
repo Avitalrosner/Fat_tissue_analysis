@@ -20,13 +20,12 @@ The processed in simple terms goes like this:
 [More information can be found here](https://www.sciencedirect.com/science/article/pii/S1471491421000022?via%3Dihub#f0005)
 
 
+
 ### Project goal:
 
-This project is a part of a bigger project that looks for differences in the gene expression found in human blood samples.
+This project is a part of a bigger project that looks for differences in the gene expression of human blood samples, that are processed using the cfRNA method.
 
-Spesifically here, I want to create an analysis based on the [GTEx database](https://gtexportal.org/home/).
-
-This database contains information of RNA seq that was harvest from biopsies of most tissues in the body.
+Spesifically here, I want to create an analysis based on the [GTEx database](https://gtexportal.org/home/) -that contains information of RNA seq data. The RNA was harvest from biopsies of most tissues in the body.
 Here I'm interested in finding the marker genes of the fat tissues - both Adipose Subcutaneous and Adipose Visceral.
 
 The markers I find will be used for analysing the RNA seq data that would be received from our patients blood sample that went through the cfRNA processing.
