@@ -25,10 +25,16 @@ The processed in simple terms goes like this:
 
 This project is a part of a bigger project that looks for differences in the gene expression of human blood samples, that are processed using the cfRNA method.
 
-Spesifically here, I want to create an analysis based on the [GTEx database](https://gtexportal.org/home/) -that contains information of RNA seq data. The RNA was harvest from biopsies of most tissues in the body.
+Spesifically here, I want to create an analysis based on the [GTEx database](https://gtexportal.org/home/) - that contains information of RNA seq data. The RNA was harvest from biopsies of most tissues in the body.
+
 Here I'm interested in finding the marker genes of the fat tissues - both Adipose Subcutaneous and Adipose Visceral.
+The markers I find will be used for analysing the RNA seq data that would be received from our patients blood samples that went through the cfRNA processing.
 
-The markers I find will be used for analysing the RNA seq data that would be received from our patients blood sample that went through the cfRNA processing.
+This way, I might be able to find interesting phenomenas in regards to the fat tissues - perhaps the fat marker genes are represented more in people with obisity, or represented less in those who suffer from anorexia.
 
-This way, I might be able to find interesting phenomenas in regaurds to fat tissues - perhaps the fat marker genes are more represented in people with obisity, or less represented in those who suffer from anorexia.
+### Technical info:
 
+The analysis is planned to work this way:
+
+1. Downloading the GTEx database.
+2. 
