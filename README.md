@@ -35,7 +35,7 @@ This way, I might be able to find interesting phenomenas in regards to the fat t
 #
 ## Technical info:
 
-## The analysis is planned to work this way:
+### The analysis is planned to work this way:
 
 1. Downloading the GTEx database.
 2. Importing relevant python libraries and modules.
@@ -49,7 +49,7 @@ This way, I might be able to find interesting phenomenas in regards to the fat t
 10. Deleting from the union list marker genes that appear in the breast tissue.
 11. Extracting the marker genes to a csv file.
     
-## Installing the dependencies:
+### Installing the dependencies:
 The needed installations can be found in `requirements.txt`
 ```
 pip install -r requirements.txt
