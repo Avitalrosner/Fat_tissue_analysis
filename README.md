@@ -10,7 +10,9 @@ Meaning that after analysing the results of the RNA seq, we might be able to fin
 
 The processed in simple terms goes like this:
 
-Cells die due to Apoptosis / necrosis, or cells secrete RNA content via extra-cellular vesicle. Either way, RNA gets in the blood stream, and blood sample can be harvest, processed, and RNA material is being sent to sequencing.
+1. Cells die due to Apoptosis / necrosis and spill their content to the blood. Or alive cells secrete RNA via extra-cellular vesicle.
+2. There are RNA molecules that circulate freely in the blood stream.
+3. Blood sample can be harvest, processed, and RNA material is sent to sequencing.
 
 ![Workflow](https://ars.els-cdn.com/content/image/1-s2.0-S1471491421000022-gr1_lrg.jpg)
 
