@@ -38,4 +38,13 @@ The analysis is planned to work this way:
 
 1. Downloading the GTEx database.
 2. Importing relevant python libraries and modules.
-3. Uploading the GTEx database 
+3. Uploading the GTEx database and reading it as pandas table.
+4. Filtering the genes - deleting mitochondrial genes and ribo genes.
+5. Adjusting the table - setting gene names as indexes, dropping the ENSG names.
+6. Creating 3 sub tables, each contains 2 out of 3 fat tissues - visceral, subcutaneous and brest.
+7. Defining a function for finding marker genes.
+8. Applying the function for the 3 sub tables, to receive the marker genes.
+9. Union the marker genes from visceral and subcutaneous adipose tissues.
+10. Deleting from the union list marker genes that appear in the breast tissue.
+11. 
+12. 
