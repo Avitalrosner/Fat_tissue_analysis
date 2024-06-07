@@ -1,5 +1,6 @@
 # Project Proposal
 
+#
 ### Background:
 
 Although human beings seem very different from the outside, when it comes to our biological info, aka DNA - we are very similar to each other, and mostly we express the same genes respectivally to each cell type.
@@ -10,7 +11,7 @@ Meaning that after analysing the results of the RNA seq, we might be able to fin
 
 The processed in simple terms goes like this:
 
-1. Cells die due to Apoptosis / necrosis and spill their content to the blood.
+1. Cells die due to [Apoptosis / necrosis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1087413/) and spill their content to the blood.
 2. Another option - cells secrete RNA via extra-cellular vesicle.
 3. Either way - there are RNA molecules circulating freely in the blood stream.
 4. Blood sample can be harvest, processed, and RNA material is sent to sequencing.
@@ -19,6 +20,7 @@ The processed in simple terms goes like this:
 
 [More information can be found here](https://www.sciencedirect.com/science/article/pii/S1471491421000022?via%3Dihub#f0005)
 
+#
 ### Project goal:
 
 This project is a part of a bigger project that looks for differences in the gene expression of human blood samples, that are processed using the cfRNA method.
@@ -30,6 +32,7 @@ The markers I find will be used for analysing the RNA seq data that would be rec
 
 This way, I might be able to find interesting phenomenas in regards to the fat tissues - perhaps the fat marker genes are represented more in people with obisity, or represented less in those who suffer from anorexia.
 
+#
 ### Technical info:
 
 The analysis is planned to work this way:
