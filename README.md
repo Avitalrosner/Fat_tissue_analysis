@@ -3,8 +3,10 @@
 #Background:
 
 Although human beings seem very different from the outside, when it comes to our biological info, aka DNA - we are very similar to each other, and mostly we express the same genes respectivally to each cell type.
-With that being said, external factor like our life-style, the food we eat and such, can have an impact of the expression levels of some gene. 
-There is a cool noninvasive method called cfRNA, with which we can research the RNA content in the blood.
+With that being said, external factor like our life-style, the food we eat and such, can have an impact of the expression levels of some genes. 
+
+There is a cool noninvasive method called cfRNA, with which we can research the RNA content in the blood, so after analysing the results we might be able to find interesting differences between the blood samples of different patients.
+
 The processed in simple terms goes like this:
 
 Cells die due to Apoptosis / necrosis, or cells secrete RNA content via extra-cellular vesicle. Either way, RNA gets in the blood stream, and blood sample can be harvest, processed, and RNA material is being sent to sequencing.
