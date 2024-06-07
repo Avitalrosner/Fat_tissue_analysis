@@ -6,7 +6,7 @@
 Although human beings seem very different from the outside, when it comes to our biological info, aka DNA - we are very similar to each other, and mostly we express the same genes respectivally to each cell type.
 With that being said, external factor like our life-style, the food we eat and such, can have an impact of the expression levels of some genes. 
 
-There is a cool noninvasive method called cfRNA, with which we can research the RNA content in the blood.
+There is a cool noninvasive method called [cfRNA](https://www.illumina.com/science/genomics-research/articles/circulating-rna-sequencing-enables-noninvasive-monitoring-dynamic-changes-in-human-health.html), with which we can research the RNA content in the blood.
 Meaning that after analysing the results of the RNA seq, we might be able to find interesting differences between blood samples of different patients.
 
 The processed in simple terms goes like this:
