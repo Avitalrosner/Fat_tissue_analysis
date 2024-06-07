@@ -1,7 +1,7 @@
 # Project Proposal
 
 #
-### Background:
+## Background:
 
 Although human beings seem very different from the outside, when it comes to our biological info, aka DNA - we are very similar to each other, and mostly we express the same genes respectivally to each cell type.
 With that being said, external factor like our life-style, the food we eat and such, can have an impact of the expression levels of some genes. 
@@ -21,7 +21,7 @@ The processed in simple terms goes like this:
 [More information can be found here](https://www.sciencedirect.com/science/article/pii/S1471491421000022?via%3Dihub#f0005)
 
 #
-### Project goal:
+## Project goal:
 
 This project is a part of a bigger project that looks for differences in the gene expression of human blood samples, that are processed using the cfRNA method.
 
@@ -33,9 +33,9 @@ The markers I find will be used for analysing the RNA seq data that would be rec
 This way, I might be able to find interesting phenomenas in regards to the fat tissues - perhaps the fat marker genes are represented more in people with obisity, or represented less in those who suffer from anorexia.
 
 #
-### Technical info:
+## Technical info:
 
-The analysis is planned to work this way:
+## The analysis is planned to work this way:
 
 1. Downloading the GTEx database.
 2. Importing relevant python libraries and modules.
@@ -49,3 +49,12 @@ The analysis is planned to work this way:
 10. Deleting from the union list marker genes that appear in the breast tissue.
 11. Extracting the marker genes to a csv file.
     
+## Installing the dependencies:
+The needed installations can be found in `requirements.txt`
+```
+pip install -r requirements.txt
+```
+
+
+
+
