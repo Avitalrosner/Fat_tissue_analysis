@@ -19,9 +19,6 @@ The processed in simple terms goes like this:
 
 [More information can be found here](https://www.sciencedirect.com/science/article/pii/S1471491421000022?via%3Dihub#f0005)
 
-
-
-
 ### Project goal:
 
 This project is a part of a bigger project that looks for differences in the gene expression of human blood samples, that are processed using the cfRNA method.
@@ -47,5 +44,5 @@ The analysis is planned to work this way:
 8. Applying the function for the 3 sub tables, to receive the marker genes.
 9. Union the marker genes from visceral and subcutaneous adipose tissues.
 10. Deleting from the union list marker genes that appear in the breast tissue.
-11. 
-12. 
+11. Extracting the marker genes to a csv file.
+    
