@@ -37,4 +37,5 @@ This way, I might be able to find interesting phenomenas in regards to the fat t
 The analysis is planned to work this way:
 
 1. Downloading the GTEx database.
-2. 
+2. Importing relevant python libraries and modules.
+3. Uploading the GTEx database 
