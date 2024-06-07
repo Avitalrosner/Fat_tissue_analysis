@@ -55,6 +55,17 @@ The needed installations can be found in `requirements.txt`
 pip install -r requirements.txt
 ```
 
+### Testing the program:
+Run-
+```
+pytest
+```
+
+### Running the program:
+To run, provide the script's name and the input file:
+```
+python final_project.py input.gct
+```
 
 
 
