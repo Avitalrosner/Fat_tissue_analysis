@@ -1,4 +1,4 @@
-# Fat tissue analysis
+# Fat tissue analysis for cfRNA data
 
 #
 ## Background:
