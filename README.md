@@ -1,4 +1,4 @@
-# Project Proposal
+# Fat tissue analysis
 
 #
 ## Background:
@@ -67,5 +67,6 @@ To run, provide the script's name and the input file:
 python final_project.py input.gct
 ```
 
+This project was originally implemented as part of the [Python programming course](https://github.com/szabgab/wis-python-course-2024-04) at the [Weizmann Institute of Science](https://www.weizmann.ac.il/) taught by [Gabor Szabo](https://szabgab.com/)
 
 
