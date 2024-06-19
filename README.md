@@ -45,13 +45,10 @@ This way, I might be able to find interesting phenomenas in regards to the fat t
 6. Creating 3 sub tables, each contains 2 out of 3 fat tissues - visceral, subcutaneous and brest.
 7. Defining a function for finding marker genes.
 8. Applying the function for the 3 sub tables, to receive the marker genes.
-9. Union the marker genes from visceral and subcutaneous adipose tissues.
-<<<<<<< HEAD
-10. Deleting from the union list marker genes that appear in the breast tissue.
-=======
-10. Find the intersection between the union list, and the marker genes in breast tissue.
->>>>>>> 134c94a966d152c67fc59e803f1e43e90a9aca22
-11. Extracting the marker genes to a csv file.
+9. Combining the marker genes from visceral and subcutaneous adipose tissues.
+10. Finding the intersection between the union list, and the marker genes in breast tissue.
+10. Deleting from both the sub and vis lists the marker genes that appear in the breast tissue.
+11. Extracting the marker genes for vis and sub to a csv file.
     
 ### Installing the dependencies:
 The needed installations can be found in `requirements.txt`
@@ -66,10 +63,11 @@ pytest
 ```
 
 ### Running the program:
-To run, provide the script's name and the input file:
-```
-python final_project.py input.gct
-```
+To run, have the script provided - GTEx.ipynb - a jupiter notebook,
+and press on "Run all":
+run_code
+
+
 
 This project was originally implemented as part of the [Python programming course](https://github.com/szabgab/wis-python-course-2024-04) at the [Weizmann Institute of Science](https://www.weizmann.ac.il/) taught by [Gabor Szabo](https://szabgab.com/).
 
