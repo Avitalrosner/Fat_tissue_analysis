@@ -46,7 +46,7 @@ This way, I might be able to find interesting phenomenas in regards to the fat t
 7. Defining a function for finding marker genes.
 8. Applying the function for the 3 sub tables, to receive the marker genes.
 9. Union the marker genes from visceral and subcutaneous adipose tissues.
-10. Deleting from the union list marker genes that appear in the breast tissue.
+10. Find the intersection between the union list, and the marker genes in breast tissue.
 11. Extracting the marker genes to a csv file.
     
 ### Installing the dependencies:
