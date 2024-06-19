@@ -63,9 +63,9 @@ pytest
 ```
 
 ### Running the program:
-To run, have the script provided - GTEx.ipynb - a jupiter notebook,
-and press on "Run all":
-run_code
+To run, have the  jupiter notebook provided - GTEx.ipynb,
+and press on Run all:
+ ![Run all](./run_code.JPG)
 
 
 
