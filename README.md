@@ -66,7 +66,7 @@ pip install -r requirements.txt
 
 
 ### Running the program:
-Clone this repository (https://github.com/Avitalrosner/Fat_tissue_analysis.git), open the  jupiter notebook provided - GTEx.ipynb,
+Clone this repository (https://github.com/Avitalrosner/Fat_tissue_analysis.git), open the  jupyter notebook provided - GTEx.ipynb,
 and press on Run all as shown here:
  ![Run all](./run_code.JPG)
 
