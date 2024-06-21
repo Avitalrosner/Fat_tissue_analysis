@@ -49,26 +49,37 @@ This way, I might be able to find interesting phenomenas in regards to the fat t
 10. Finding the intersection between the union list, and the marker genes in breast tissue.
 10. Deleting from both the sub and vis lists the marker genes that appear in the breast tissue.
 11. Extracting the marker genes for vis and sub to a csv file.
-    
+
+   
 ### Installing the dependencies:
+Ensure you have the following installed:
+- Python 3.10 or later
+- Jupyter Notebook
+- pandas
+- pytest
+- nbimporter
+
 The needed installations can be found in `requirements.txt`
 ```
 pip install -r requirements.txt
 ```
+
+
+### Running the program:
+Clone this repository (https://github.com/Avitalrosner/Fat_tissue_analysis.git), open the  jupiter notebook provided - GTEx.ipynb,
+and press on Run all as shown here:
+ ![Run all](./run_code.JPG)
+
 
 ### Testing the program:
 Run-
 ```
 pytest
 ```
-
-### Running the program:
-To run, have the  jupiter notebook provided - GTEx.ipynb,
-and press on Run all:
- ![Run all](./run_code.JPG)
+The output should look like this:
+![Output of test](./output_of_test.JPG)
 
 
-
-This project was originally implemented as part of the [Python programming course](https://github.com/szabgab/wis-python-course-2024-04) at the [Weizmann Institute of Science](https://www.weizmann.ac.il/) taught by [Gabor Szabo](https://szabgab.com/).
+The project was originally implemented as part of the [Python programming course](https://github.com/szabgab/wis-python-course-2024-04) at the [Weizmann Institute of Science](https://www.weizmann.ac.il/) taught by [Gabor Szabo](https://szabgab.com/).
 
 
