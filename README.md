@@ -66,9 +66,17 @@ pip install -r requirements.txt
 
 
 ### Running the program:
+
+1. The code:
 Clone this repository (https://github.com/Avitalrosner/Fat_tissue_analysis.git), open the  jupyter notebook provided - GTEx.ipynb,
 and press on Run all as shown here:
  ![Run all](./run_code.JPG)
+
+2. The input (already in the code):
+GTEx_Analysis_2017-06-05_v8_RNASeQCv1.1.9_gene_median_tpm.gct.
+
+3. The output:
+2 marker genes files - vis.csv & sub.csv.
 
 
 ### Testing the program:
