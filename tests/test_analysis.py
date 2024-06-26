@@ -1,7 +1,9 @@
 import pytest
 import pandas as pd
 import os
+import sys
 
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 from GTEx import get_marker_genes
 
 @pytest.fixture(scope="module")
@@ -17,7 +19,7 @@ def setup_data():
     return df
 
 def test_file_reading():
-    assert os.path.exists("GTEx_Analysis_2017-06-05_v8_RNASeQCv1.1.9_gene_median_tpm.gct")
+    assert os.path.exists(os.path.join(os.path.dirname(__file__), '..', 'GTEx_Analysis_2017-06-05_v8_RNASeQCv1.1.9_gene_median_tpm.gct'))
 
 def test_mitochondrial_genes_removal(setup_data):
     df = setup_data.copy()  # Copying to avoid modifying the fixture data
