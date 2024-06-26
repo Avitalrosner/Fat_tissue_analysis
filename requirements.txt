@@ -1,4 +1,3 @@
 pandas
 nbimporter
 pytest
-jupyter
