@@ -1,9 +1,7 @@
 import pytest
 import pandas as pd
-import nbimporter
 import os
 
-# Import your function from the Jupyter notebook
 from GTEx import get_marker_genes
 
 @pytest.fixture(scope="module")
