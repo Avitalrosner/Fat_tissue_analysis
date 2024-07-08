@@ -54,7 +54,6 @@ This way, I might be able to find interesting phenomenas in regards to the fat t
 ### Installing the dependencies:
 Ensure you have the following installed:
 - Python 3.10 or later
-- Jupyter Notebook
 - pandas
 - pytest
 - nbimporter
@@ -67,17 +66,24 @@ pip install -r requirements.txt
 
 ### Running the program:
 
-1. The code:
-Clone this repository (https://github.com/Avitalrosner/Fat_tissue_analysis.git), open the  jupyter notebook provided - GTEx.ipynb,
-and press on Run all as shown here:
- ![Run all](./run_code.JPG)
+1. The code:           
+Clone this repository (https://github.com/Avitalrosner/Fat_tissue_analysis.git).
+Open GTEx.py file and run the code:
 
-2. The input (already in the code):
+```
+python GTEx.py
+```
+
+2. The input (already in the code) is:
 GTEx_Analysis_2017-06-05_v8_RNASeQCv1.1.9_gene_median_tpm.gct.
 
-3. The output:
-2 marker genes files - vis.csv & sub.csv.
+3. To receive the output files locally, copy the path to your directory, and paste it in the GTEx.py as shown here:
 
+![Path to the directory](./output_files.JPG)
+
+4. The output:
+2 marker genes files - vis.csv & sub.csv.
+(provided in the repository as well)
 
 ### Testing the program:
 Run-
