@@ -92,7 +92,7 @@ pytest
 
 The output should look like this:
 
-![Output of test](./output_of_test.JPG)
+![Output of test](./output_test.JPG)
 
 
 The project was originally implemented as part of the [Python programming course](https://github.com/szabgab/wis-python-course-2024-04) at the [Weizmann Institute of Science](https://www.weizmann.ac.il/) taught by [Gabor Szabo](https://szabgab.com/).
