@@ -68,6 +68,8 @@ pip install -r requirements.txt
 
 1. The code:           
 Clone this repository (https://github.com/Avitalrosner/Fat_tissue_analysis.git).
+Or press on download ZIP.
+
 Open GTEx.py file and run the code:
 
 ```
@@ -80,6 +82,8 @@ GTEx_Analysis_2017-06-05_v8_RNASeQCv1.1.9_gene_median_tpm.gct.
 3. To receive the output files locally, copy the path to your directory, and paste it in the GTEx.py as shown here:
 
 ![Path to the directory](./output_files.JPG)
+
+NOTE - make sure the "/" in the path are correct, should be like in the picture above.
 
 4. The output:
 2 marker genes files - vis.csv & sub.csv (provided in the repository as well).
