@@ -82,15 +82,16 @@ GTEx_Analysis_2017-06-05_v8_RNASeQCv1.1.9_gene_median_tpm.gct.
 ![Path to the directory](./output_files.JPG)
 
 4. The output:
-2 marker genes files - vis.csv & sub.csv.
-(provided in the repository as well)
+2 marker genes files - vis.csv & sub.csv (provided in the repository as well).
 
 ### Testing the program:
 Run-
 ```
 pytest
 ```
+
 The output should look like this:
+
 ![Output of test](./output_of_test.JPG)
 
 
