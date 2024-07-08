@@ -193,7 +193,7 @@ sub_genes_not_in_intersection = [gene for gene in lst_sub if gene not in interse
 
 # Saving the final vis and sub lists, that don't have breast
 
-subdirectory = "C:/python/Fat_tissue_analysis"
+subdirectory = "C:/python/Fat_tissue_analysis" #change to your path to receive the output files!
 if not os.path.exists(subdirectory):
     os.makedirs(subdirectory)
 file_path_vis = os.path.join(subdirectory, "vis.csv")
